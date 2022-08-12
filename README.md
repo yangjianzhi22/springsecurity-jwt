@@ -18,7 +18,7 @@ JSON Web Token（JWT）是一个开放的行业标准（RFC 7519），它定义�
 
 #### 1. 登录流程
 
-![1](./docs/1.png)
+![1](/docs/1.png)
 
 #### 2. 核心
 
@@ -171,3 +171,5 @@ public Object logout() {
     }
 }
 ```
+
+> 注意: 命名为: logout会和原来的冲突，所以用logout2
